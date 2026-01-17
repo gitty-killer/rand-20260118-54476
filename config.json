@@ -1,0 +1,13 @@
+{
+  "project_title": "Subscription Health Dashboard",
+  "goal": "Monitor churn risk across subscription segments.",
+  "entity_name": "account",
+  "amount_label": "monthly_revenue",
+  "score_label": "churn_risk_score",
+  "categories": [
+    "startup",
+    "mid",
+    "enterprise",
+    "edu"
+  ]
+}
